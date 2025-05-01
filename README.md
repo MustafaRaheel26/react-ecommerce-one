@@ -1,10 +1,10 @@
-UOMO E-commerce Website Using ReactJS
+# UOMO E-commerce Website Using ReactJS
 
-📌 Live Demo
+# 📌 Live Demo
 https://react-ecommerce-one-blush.vercel.app/
 
 
-😎 Features
+# 😎 Features
 Sleek and modern UI inspired by top e-commerce platforms
 
 Fully responsive, providing a seamless shopping experience on any device
@@ -19,7 +19,7 @@ Adjustable item quantities directly from the product page, streamlining the shop
 
 Interactive 3D t-shirt model, enhancing user engagement with an immersive shopping experience powered by Three.js
 
-🚀 What technologies were used?
+# 🚀 What technologies were used?
 React.js (Create React App)
 
 React Router DOM for seamless navigation
@@ -32,7 +32,7 @@ Three.js for immersive 3D models
 
 Responsive web design principles for a mobile-friendly experience
 
-🖥️ How can you clone and tweak this project?
+# 🖥️ How can you clone and tweak this project?
 From your command line, first clone this repo:
 
 shell
