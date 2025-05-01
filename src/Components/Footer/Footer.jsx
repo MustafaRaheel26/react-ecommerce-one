@@ -34,11 +34,11 @@ const Footer = () => {
               <img src={logo} alt="" Z />
             </div>
 
-            <p>1418 River Drive, Suite 35 Cottonhall, CA 9622 United States</p>
+            <p>Block I North Nazimabad Karachi, Pakistan</p>
 
             <div className="footer_address">
-              <strong> sale@uomo.com </strong>
-              <strong> +1 246-345-0695 </strong>
+              <strong> mustafaraheel26@gmail.com </strong>
+              <strong> +92 3082602062 </strong>
             </div>
 
             <div className="social_links">
@@ -146,7 +146,7 @@ const Footer = () => {
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
             >
-              Shakti Tamrakar
+              Muhammad Mustafa
             </a>{" "}
             with ❤️
           </p>
@@ -155,7 +155,7 @@ const Footer = () => {
               <p>Language</p>
               <select name="language" id="language">
                 <option value="english">United States | English</option>
-                <option value="Hindi">Hindi</option>
+                <option value="Urdu">Urdu</option>
                 <option value="Germany">Germany</option>
                 <option value="French">French</option>
               </select>
@@ -164,7 +164,7 @@ const Footer = () => {
               <p>Currency</p>
               <select name="currency" id="currency">
                 <option value="USD">$ USD</option>
-                <option value="INR">₹ INR</option>
+                <option value="INR">$ PKR</option>
                 <option value="EUR">€ EUR</option>
                 <option value="GBP">£ GBP</option>
               </select>
