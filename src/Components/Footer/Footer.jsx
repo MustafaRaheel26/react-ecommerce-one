@@ -146,7 +146,7 @@ const Footer = () => {
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
             >
-              Muhammad Mustafa
+              M Mustafa
             </a>{" "}
             with ❤️
           </p>
